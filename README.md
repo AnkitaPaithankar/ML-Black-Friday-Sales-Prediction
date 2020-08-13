@@ -32,4 +32,4 @@ Where y hat is the predicted value and y is the original value.
 
 Applied different ML models.
 But the CATBOOST algorithm performed quite well. 
-RMSE : 2482.5 on test data set
+RMSE : 2469.64 on test data set
